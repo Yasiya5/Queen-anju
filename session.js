@@ -47,7 +47,7 @@ module.exports = {
   BOT_NUMBER:
     process.env.BOT_NUMBER || "94723628072",
   PASSWORD: 
-    process.env.PASSWORD || "1234",
+    process.env.PASSWORD || "123",
   SUDO: process.env.SUDO
     ? process.env.SUDO.split(",")
     : ["94717775628", "94758775628"],
